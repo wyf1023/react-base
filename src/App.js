@@ -1,13 +1,5 @@
-import Hello from "./components/Hello";
-import Welcome from "./components/Welcome";
-
 function App() {
-  return (
-    <div className="App">
-      <Hello />
-      <Welcome />
-    </div>
-  );
+  return <div className="App">test</div>;
 }
 
 export default App;
